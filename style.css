@@ -1,0 +1,12 @@
+body {
+  background-color: #a6a6a6;
+  display: block;
+  margin: 0 auto;
+}
+
+img, h1, p, video {
+    display: block;
+    margin: 0 auto;
+    background-color: #fff;
+  }
+  
